@@ -1,0 +1,7 @@
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\bin\Debug\LamaKnight.exe.config
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\bin\Debug\LamaKnight.exe
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\bin\Debug\LamaKnight.pdb
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\obj\Debug\LamaKnight.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\obj\Debug\LamaKnight.csproj.CoreCompileInputs.cache
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\obj\Debug\LamaKnight.exe
+C:\Users\marty\source\repos\LamaKnight\LamaKnight\obj\Debug\LamaKnight.pdb
